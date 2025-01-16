@@ -38,7 +38,7 @@
 
 <h2 id="installation">Installation</h2>
 <p>To install and run this project, ensure you have GHC and Cabal installed on your machine. You can clone the repository with the following command:</p>
-<pre><code>git clone https://github.com/muhammadumermemon/Haskell-NLP-Cybersecurity.git</code></pre>
+<pre><code>git clone https://github.com/muhammadumerbinfarooq/Haskell-NLP-Cybersecurity.git</code></pre>
 <p>Navigate to the project directory:</p>
 <pre><code>cd Haskell-NLP-Cybersecurity</code></pre>
 <p>To build the project, run:</p>
